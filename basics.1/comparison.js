@@ -17,4 +17,5 @@ console.log(undefined>0);
 // === => strict check
 // datatype not equal gives false 
 
-console.log("2"===2); 
+console.log("2"===2);
+ 
