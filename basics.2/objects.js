@@ -11,8 +11,8 @@ const jsuser = {
     isloogedin: false
 }
 
-// console.log(jsuser.email);
-// console.log(jsuser["email"]);
+console.log(jsuser.email);
+console.log(jsuser["email"]);
 
 // const tinderuser = new Object() // singleton
 const tinderuser ={} // non singletom 

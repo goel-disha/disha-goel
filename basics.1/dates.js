@@ -17,13 +17,13 @@ let mydate =new Date()
 // let mycreateddate = new Date(2025,0,23)
 // let mycreateddate = new Date(2025,0,23,5,3)
 // console.log(mycreateddate);
-// console.log(mycreateddate.toLocaleString());
+// console.log(mycreateddate.toString());
 
-let mytimestamp =Date.now()
+// let mytimestamp =Date.now()
 
-console.log(mytimestamp);
+// console.log(mytimestamp);
 // console.log(mycreateddate.getTime());
-console.log(Math.floor(Date.now()/1000));
+// console.log(Math.floor(Date.now()/1000));
 
 let newdate = new Date()
 console.log(newdate.getMonth());

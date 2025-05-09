@@ -45,8 +45,8 @@ const bignumber = 25475246532654n
 // reference(non primitive)
 // array,objects,funtions 
 
-const heros =["shaktiman","naagraj","doga"]
-let myobj ={
+const heros =["shaktiman","naagraj","doga"]   // array
+let myobj ={                                  // object
     name: "disha",
     age: 22,
 }

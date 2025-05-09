@@ -12,17 +12,17 @@
 // // "33abc"=> NaN
 // // true => 1; false=0;
 
-// let isloogedin = ""
+// let isloogedin = "d"
 
 // let booleanloggedin = Boolean(isloogedin)
 // console.log(booleanloggedin);
 
 // // empty => false
-// // "disha"=> true
+// // "not empty"=> true
 
 // let somenumber =33
 
-// let stringnumber = String(somenumber)
+// let stringnumber = string(somenumber)
 
 // console.log(stringnumber);
 // console.log(typeof stringnumber);
@@ -43,7 +43,9 @@
 // console.log(1+"2");
 // console.log("1"+"2");
 // console.log("1"+2+2);
-// console.log(1+2+"2");
+// console.log(1+2+"2");   
+
+// if numbers are before any string type then it is considered as numbers and add up together 
 
 let num1,num2,num3
 num1=num2=num3=2+2

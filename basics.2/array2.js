@@ -11,7 +11,7 @@ marvel_heros.push(dc)
 
 const allnewheros = [...marvel_heros,...dc]
 
-const anotherarray = [1,2,3,,[4,5,6],7,[6,7,[,4,5]]]
+const anotherarray = [1,2,3,[4,5,6],7,[6,7,[4,5]]]
 
 const realanotherheros =anotherarray.flat(Infinity)
 console.log(realanotherheros);

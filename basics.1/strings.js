@@ -6,7 +6,7 @@ const repocount = 50
 
 const gamename = new String('disha goel')
 
-// console.log(`hello my name is ${name} and my repo is ${repocount}`);
+console.log(`hello my name is ${name} and my repo is ${repocount}`);
 
 
 // console.log(gamename[0]);
