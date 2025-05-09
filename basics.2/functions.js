@@ -36,7 +36,7 @@ function calculatecardprice(val1,val2,...num1){
       return num1
 }
 
-// console.log(calculatecardprice(200,400,400,2000))
+console.log(calculatecardprice(200,400,400,2000))
 
 const user = {
     username: "disha",
