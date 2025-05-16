@@ -10,8 +10,14 @@ coding.forEach( (item) =>{
 } )
 
 function printme(item){
-    console.log(item);
-    
+    // console.log(item);
 }
 
-coding.forEach(printme)
+// coding.forEach(printme)
+
+const values =coding.forEach((item) => {
+    // console.log(item);
+    return item
+}
+)
+console.log(values);
